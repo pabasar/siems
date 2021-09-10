@@ -14,4 +14,3 @@ SIEMS is designed for Hospitals to manage the Surgical Instruments and Equipment
 ![9](https://user-images.githubusercontent.com/49782156/132808727-16e52c4e-733a-4e41-a2dc-7ca5bffc3558.png)
 ![10](https://user-images.githubusercontent.com/49782156/132808752-a0799dff-cfbd-43b6-b0ac-06b4701e9189.png)
 ![11](https://user-images.githubusercontent.com/49782156/132808769-bb703c04-0dc0-46f6-b4f2-c4fff1236cb7.png)
-![12](https://user-images.githubusercontent.com/49782156/132808814-163a5e3a-735d-4c27-9de0-a3f776d30e7f.png)
